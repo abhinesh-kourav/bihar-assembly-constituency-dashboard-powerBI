@@ -1,4 +1,4 @@
-# Bihar Assembly Constituency Report
+# Bihar Assembly Constituency Report (POWER BI)
 
 This Power BI report provides a comprehensive overview of Bihar's Assembly Constituencies (ACs). It includes key data points such as demographic information, caste distribution, past election summaries, and an annexure detailing blocks, municipalities, and gram panchayats within the constituency.
 
